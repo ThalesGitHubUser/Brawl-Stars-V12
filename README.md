@@ -42,7 +42,10 @@ Just edit the IP in the frida-gadget config (```/lib/armeabi-v7a/liblover.config
 
 * Github: link deprecated
 
+👤 **ThalesGithubUser**
+ Me For Patching The Client
 ### Friendly reminder
 The server is in a very early state. Right now, it is NOT recommended to run this on a production environment. Please not open issues about missing features, i'm well aware of this. 
 
 #### Need help? Join [My Discord server](https://discord.gg/4FZrUFK4C6)
+If You Want
