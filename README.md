@@ -1,6 +1,6 @@
 # Penguin Brawl
 Open source Python 3.8 Brawl Stars Server for version 12!
-![ScreenShot](https://cdn.discordapp.com/attachments/728556050285985823/810416686771470336/Screenshot_20210214-094555_Brawl_Stars.jpg) 
+![ScreenShot](https://cdn.discordapp.com/attachments/1216025567808454717/1220719918568312873/Imagem_do_WhatsApp_de_2024-03-22_as_09.52.19_cf501cb1.jpg?ex=660ff704&is=65fd8204&hm=f33cab8e7fedc93ad8b212c22c2197b0b53c43c8cc6e6f9f7933850d07a61e8c&) 
 
 ## Setup
 First you must install TweetNaCl. To do it use this command: ```python setup.py install --user```.
