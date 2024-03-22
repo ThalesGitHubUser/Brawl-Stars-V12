@@ -9,7 +9,7 @@ Now you can run server. If your OS is Windows just run main.py. If Linux type ``
 ## Client
 To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://drive.google.com/file/d/1-K95h2eWZRK6RtfR2cnxTrKCU9S8kiVC/view).
 Just edit the IP in the frida-gadget config (```/lib/armeabi-v7a/liblover.config.so```)
-```{
+{
    "interaction": {
       "type": "script",
       "path": "liblover.script.so",
@@ -22,7 +22,7 @@ Just edit the IP in the frida-gadget config (```/lib/armeabi-v7a/liblover.config
          "credit": "t.me/haccythalesco or thalesco.haccer"
       }
    }
-}```
+}
 
 ## Authors
 
@@ -43,7 +43,7 @@ Just edit the IP in the frida-gadget config (```/lib/armeabi-v7a/liblover.config
 * Github: link deprecated
 
 👤 **ThalesGithubUser**
- Me For Patching The Client
+ Me For Patching The Client And Putting Android 13 Support
 ### Friendly reminder
 The server is in a very early state. Right now, it is NOT recommended to run this on a production environment. Please not open issues about missing features, i'm well aware of this. 
 
