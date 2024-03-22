@@ -7,7 +7,7 @@ First you must install TweetNaCl. To do it use this command: ```python setup.py 
 Now you can run server. If your OS is Windows just run main.py. If Linux type ```python3 main.py``` to terminal.
 
 ## Client
-To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://drive.google.com/file/d/17P7LdvUn8yIjem_xaTHn-wB92RY6iGol/view?usp=sharing).
+To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://drive.google.com/file/d/1-K95h2eWZRK6RtfR2cnxTrKCU9S8kiVC/view).
 Just edit the IP in the frida-gadget config (```/lib/armeabi-v7a/liblover.config.so```)
 ```{
    "interaction": {
